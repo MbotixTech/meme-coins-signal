@@ -82,3 +82,6 @@ npm run dev
 This tool is for educational and research purposes only. Cryptocurrency investments, especially meme coins, are highly volatile and risky. Always Do Your Own Research (DYOR). The developers are not responsible for any financial losses.
 
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
