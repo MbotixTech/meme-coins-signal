@@ -1,6 +1,8 @@
 # Meme Coin Scanner v1.0 (Solana)
 
 A production-ready, high-performance bot that scans for new meme coins on Solana, applies safety filters, and sends alerts to Telegram.
+<img width="480" height="862" alt="image" src="https://github.com/user-attachments/assets/9b65b981-2af9-4482-b603-71988495c21b" />
+
 
 ## Features
 
@@ -78,4 +80,5 @@ npm run dev
 ## Disclaimer
 
 This tool is for educational and research purposes only. Cryptocurrency investments, especially meme coins, are highly volatile and risky. Always Do Your Own Research (DYOR). The developers are not responsible for any financial losses.
+
 
